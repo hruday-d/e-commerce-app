@@ -9,7 +9,7 @@ export const setAllProductsReducer = (state = initialState, { type, payload }) =
             return payload
 
         default:
-            return state
+            return []
     }
 }
 
