@@ -11,6 +11,14 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+Product listing page(http://localhost:3000):
+![image](https://user-images.githubusercontent.com/121602202/210083488-bda15e60-6221-4a97-804e-cbc348390601.png)
+
+
+product details page(http://localhost:3000/product-details/6):
+
+![image](https://user-images.githubusercontent.com/121602202/210083384-a4dd7f6c-9a3d-4d2e-8f73-59344c97640a.png)
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
